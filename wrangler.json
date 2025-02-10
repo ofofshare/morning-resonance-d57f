@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "morning-resonance-d57f",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "81fde20a-d03b-418c-8d1a-9b68c5eacf4c",
+      "database_name": "soft-mode-347c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
